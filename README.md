@@ -51,3 +51,46 @@ The following operations are performed:
 
 ## Project Status
 Initial dataset loading and data exploration completed.
+
+## Day5 – Employee Data Analysis
+
+### Project Overview
+This project analyses employee salary data using Python to understand salary distribution, department salary differences and employee distribution across cities.
+
+### Tasks Completed
+- Task1: Data cleaning
+- Task2: Exploratory data analysis (EDA)
+- Task3: Five visualisations
+- Task4: Report and presentation
+
+### Project Structure
+- `Day5/data/` – cleaned employee dataset
+- `Day5/Task2/` – exploratory data analysis notebook
+- `Day5/Task3/` – visualisation notebook and saved figures
+- `Day5/Task4/reports/` – findings summary, HTML report and presentation
+
+### Requirements
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+### How to Run
+1. Clone or download the project repository.
+2. Open the project in VS Code.
+3. Install dependencies using `pip install -r requirements.txt`.
+4. Open the Jupyter notebooks inside Day5.
+5. Run the notebook cells from top to bottom.
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git
+- GitHub
+
+### Reports
+The findings summary, HTML report and presentation files are available inside `Day5/Task4/reports/`.
